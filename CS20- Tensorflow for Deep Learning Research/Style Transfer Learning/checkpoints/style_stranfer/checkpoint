@@ -1,0 +1,6 @@
+model_checkpoint_path: "style_transfer-299"
+all_model_checkpoint_paths: "style_transfer-219"
+all_model_checkpoint_paths: "style_transfer-239"
+all_model_checkpoint_paths: "style_transfer-259"
+all_model_checkpoint_paths: "style_transfer-279"
+all_model_checkpoint_paths: "style_transfer-299"
