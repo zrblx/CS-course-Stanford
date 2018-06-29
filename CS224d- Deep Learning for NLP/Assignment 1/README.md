@@ -1,6 +1,12 @@
 This assignment includes 4 parts:
 
-softmax, basic neural network, word2vec and sentiment analysis.
+1.softmax
+
+2.basic neural network
+
+3.word2vec
+
+4.sentiment analysis.
 
 The detailed explanation can be found in assignment1.pdf.
 
