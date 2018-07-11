@@ -1,0 +1,48 @@
+
+body{
+  font-family: Tahoma, Arial, sans-serif;
+}
+
+h1{
+  color: black;
+}
+
+p{
+  font-size:40px;
+  width: 100px;
+  height: 150px;
+  margin: 10px;
+  background-color: #eeeff2;
+}
+
+#p1{
+  
+  
+  
+}
+
+#p2{
+
+
+  
+}
+
+#p3{
+
+}
+
+#p4{
+
+}
+
+#p5{
+
+}
+
+#p6{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+
